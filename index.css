@@ -1,0 +1,77 @@
+h1 {
+    color:darkgoldenrod;
+    border:solid 10px;
+    text-align: center;
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+#hero{
+    width: 50%;
+    margin-left: 25%;
+}
+
+body {
+    margin:0%;
+    background-color:rgb(209, 202, 183);
+    
+}
+
+p{
+    color:rgb(51, 48, 45);
+    margin: 3%;
+}
+
+.fit-picture{
+    width: 70%;
+    margin-left: 15%;
+}
+
+h2{
+    color:rgb(150, 110, 10);
+    margin: 3%;
+    border:solid 10px;
+    text-align: center;
+    font-size: 50px;
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+.text{
+    border:solid;
+    border-width: 0px 0px 0px 8px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: justify;
+}
+
+.email{
+    font-size: 40px;
+    display:block;
+    color:red;
+    background-color: black;
+    width:20%;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 40%;
+}
+
+.email:hover {
+    background: black;
+    color: gold;
+    border-radius: 50%;
+}
+
+.email:active{
+    color:gold;
+    font-size: 80px;
+}
